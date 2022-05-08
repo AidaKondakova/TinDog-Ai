@@ -1,0 +1,174 @@
+body {
+  font-family: "Montserrat";
+  padding: 0 0 4.5%;
+
+
+}
+
+
+.title { background-color: #ff4c68;
+        color: #fff;
+        }
+
+.container-fluid { padding: 3% 8% 0 8%;
+                   }
+
+
+.row {padding: 4% 14%;}
+
+h1, h2, h3, h4, h5, h6 {
+          font-family: "Montserrat-bold";
+
+          font-size: 3rem;
+          line-height: 1.5;
+          text-align: center;
+
+
+          font-weight: bold;
+
+       }
+
+
+.big-heading {
+  font-family: "Montserrat-black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+  padding-right: 15%;
+  text-align: left;
+}
+
+
+
+.navbar { padding-bottom: 0;
+          }
+
+.navbar-brand { font-family: "Ubuntu";
+                font-size: 2.5rem;
+                font-weight: bold;
+                }
+
+
+.container-hat {padding:  0 8%;
+                font-size: 1.5rem; }
+
+.nav-item {
+  padding: 0 18px;
+  font-family: "Montserrat-light"
+}
+
+.nav-link {
+
+             font-family: "Montserrat-light";
+}
+
+.title {padding: 3% 0 0;}
+
+
+.dogtin {
+          padding:  7%  10% 0;
+}
+
+
+
+.iphonedog {
+             width: 50%;
+             transform: rotate(25deg);
+             position: absolute;
+             right: 27%;
+}
+
+@media (max-width: 1028px) {
+
+.title {
+         text-align: center;
+         padding-right: 5%;}
+
+.iphonedog {position: static;
+            right: 30%;
+            transform: rotate(0);
+             }
+
+}
+
+.Download-button { margin: 5% 3% 10% 0;
+                   padding-bottom: 7px;
+                   }
+
+.features {
+
+  background-color: white;
+  padding: 7% 15%;
+  text-align: center;
+  font-size: 1rem;
+  position: relative;
+  z-index: 1;
+
+
+
+
+}
+.features-par { padding: 5%;
+                color: grey;}
+
+
+.icon{ color: #ef8172;
+      margin-bottom: 1rem;}
+
+.icon:hover {
+             color: #ff4c68;
+}
+ .testimonials {
+                text-align: center;
+                background-color: #ef8172;
+                color: #fff
+ }
+
+.testimonial-img {
+                    width: 15%;
+                    border-radius: 50%;
+
+}
+
+.carousel-item {padding: 7% 15%;}
+
+.press {background-color: #ef8172;
+        text-align: center;
+        padding-bottom: 3%;
+      }
+
+.pess-logo { width: 8%;
+             margin: 10px 20px 30px;
+             }
+
+#pricing1 {
+          padding: 25px 3px 5px;
+          text-align: center;
+          font-size: 1rem;
+        }
+
+.price-text      { font-size: 3rem;
+                   line-height: 1.5;}
+
+.prizing-parph {
+                font-size: 1rem;
+}
+.pricing-column {
+                  padding: 0 2%;
+}
+
+
+#cta {
+       background-color: #ff4c68;
+       text-align: center;
+       font-family: "Montserrat-black";
+       color: white;
+       padding: 10% 15%; }
+
+.cta-haed {padding: 5% 1%;
+           font-size: 3rem; }
+
+#footer { text-align: center;
+          padding: 7% 6%}
+
+
+.footer-icon {margin: 2px 2px 3px; }
