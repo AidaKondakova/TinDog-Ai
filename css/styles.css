@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat-black";
   font-size: 3.5rem;
   line-height: 1.5;
-  padding-right: 35%;
+  padding-right: 15%;
   text-align: left;
 }
 
@@ -83,7 +83,7 @@ h1, h2, h3, h4, h5, h6 {
          text-align: center;
          padding-right: 5%;}
  .big-heading { text-align: center;
-                padding-left: 2%;  }
+                  }
 
 .iphonedog {position: static;
             right: 30%;
